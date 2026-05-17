@@ -1,6 +1,6 @@
 # Product Management Shop
 
-A Flutter product management app created in the same in-memory `List<Map<String, dynamic>>` style as the provided student list manager project.
+A Flutter product management app created in the same in-memory `List<Map<String, dynamic>>` style student list manager project.
 
 ## Features
 
@@ -13,11 +13,4 @@ A Flutter product management app created in the same in-memory `List<Map<String,
 - Product quantity shown in red when below 10 kg, green otherwise
 - Delete and update buttons on every card
 
-## How to use
 
-Create a Flutter project, replace the generated `lib` folder with this `lib` folder, then run:
-
-```bash
-flutter pub get
-flutter run
-```
